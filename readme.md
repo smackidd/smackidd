@@ -6,8 +6,8 @@
 [<img align = "left" alt="linkedin" width = 22px src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
 
 <br />
-<br />
-<br />
+
+## Skills and Experience
 
 [twitter]: https://twitter.com/stevemackidd
 [linkedin]: https://www.linkedin.com/in/stephen-mackidd-6a1572106/
