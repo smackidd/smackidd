@@ -2,8 +2,8 @@
 
 ### Connect with me:
 
-[img align = "left" alt="twitter" width = 22px src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>][twitter]
-[img align = "left" alt="linkedin" width = 22px src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
+[<img align = "left" alt="twitter" width = 22px src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>][twitter]
+[<img align = "left" alt="linkedin" width = 22px src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>][linkedin]
 
 <br />
 <br />
