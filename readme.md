@@ -15,5 +15,8 @@
 - 📲 Android Studio / React Native
 - 🎮 Unreal Engine
 
+## Projects
+[<img align = "left" alt="3D Pac Man" width = 256px src = "https://media.giphy.com/media/1t8sJK5oei0DHxccTU/giphy.gif" />]
+
 [twitter]: https://twitter.com/stevemackidd
 [linkedin]: https://www.linkedin.com/in/stephen-mackidd-6a1572106/
