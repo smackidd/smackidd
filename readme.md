@@ -9,7 +9,11 @@
 
 ## Skills and Experience
 
--
+- ⚛ React / mongoDB / NodeJS
+- 📡 HTML / CSS / JavaScript
+- 🖥 C++ / C# .Net / Java
+- 📲 Android Studio / React Native
+- 🎮 Unreal Engine
 
 [twitter]: https://twitter.com/stevemackidd
 [linkedin]: https://www.linkedin.com/in/stephen-mackidd-6a1572106/
