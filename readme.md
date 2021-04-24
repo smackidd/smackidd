@@ -17,7 +17,9 @@
 
 ## Projects
 <img align = "left" alt="3D Pac Man" width = 256px src = "https://media.giphy.com/media/1t8sJK5oei0DHxccTU/giphy.gif" />
-<img align = "left" alt="3D Pac Man" width = 256px src = "https://media.giphy.com/media/TMDftB6RMFpGUXB0ZF/giphy.gif" />
+<img align = "left" alt="Zombies" width = 256px src = "https://media.giphy.com/media/TMDftB6RMFpGUXB0ZF/giphy.gif" />
+<br/>
+<img align = "left" alt="Spotify" width = 512px src = "https://media.giphy.com/media/v6ZqTjGHqbBe4N7NJb/giphy.gif" />
 
 [twitter]: https://twitter.com/stevemackidd
 [linkedin]: https://www.linkedin.com/in/stephen-mackidd-6a1572106/
