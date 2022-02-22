@@ -16,6 +16,8 @@
 - 🎮 Unreal Engine
 
 ## Projects
+<img align = "left" alt="3D Pac Man" width = 512px src = "https://media.giphy.com/media/zqdAKEKM5Pyqniu0qS/giphy.gif" />
+
 <img align = "left" alt="3D Pac Man" width = 512px src = "https://media.giphy.com/media/1t8sJK5oei0DHxccTU/giphy.gif" />
 <img align = "left" alt="Zombies" width = 512px src = "https://media.giphy.com/media/TMDftB6RMFpGUXB0ZF/giphy.gif" />
 <br/>
